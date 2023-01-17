@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://uc-starter:ELjNE3g2TGRvyjsY@uc-starter.2evfjxi.mongodb.net/?retryWrites=true&w=majority",
+  "mongoURI": "mongodb://uc-starter:ELjNE3g2TGRvyjsY@ac-pope7a1-shard-00-00.2evfjxi.mongodb.net:27017,ac-pope7a1-shard-00-01.2evfjxi.mongodb.net:27017,ac-pope7a1-shard-00-02.2evfjxi.mongodb.net:27017/mydb?ssl=true&replicaSet=atlas-ffs4rl-shard-0&authSource=admin&retryWrites=true&w=majority",
   "baseUrl": "http://localhost:5000"
 }
